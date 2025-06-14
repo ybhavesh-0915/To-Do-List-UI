@@ -60,8 +60,14 @@ To run the project locally:
 * Ideal for use as a front-end template or starter project.
 
 ---
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+---
 
 ## 📬 Contact
 For any feedback or suggestions:
 **Bhavesh Yadav**
 🔗 [GitHub](https://github.com/ybhavesh-0915)
+
+> Developed with ❤️ by Bhavesh Yadav
