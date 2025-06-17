@@ -2,7 +2,7 @@
 
 A beautifully designed front-end UI for a To-Do List web application, featuring login/signup modals and a responsive interface. This project focuses purely on the **user interface** — there is **no backend or logic implemented**.
 
-🔗 **Live Preview**: [Click here to view](https://github.com/ybhavesh-0915/To-Do-List-UI)
+🔗 **Live Preview**: [Click here to view](https://ybhavesh-0915.github.io/To-Do-List-UI/)
 
 ---
 
